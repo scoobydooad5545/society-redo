@@ -1,0 +1,26 @@
+/*Helper Classes*/
+.dark-blue {background-color:#110466;}
+.teal {background-color:#0BF1BF;}
+.white {color:white;}
+.red {background-color:red;}
+.purple {background-color:purple;}
+.light-grey {background-color:#d3d3d3;}
+.med-grey {background-color:#a9a9a9;}
+.dark-grey {background-color:#696969;}
+h100 {height:100px;}
+.h200 {height:200px;}
+.h300 {height:300px;}
+.h400 {height:400px;}
+.h500 {height:500px;}
+.h600 {height:600px;}
+.h700 {height:700px;}
+.h900 {height:900px;}
+
+.container {
+	min-width:1000px;
+}
+
+
+
+
+
