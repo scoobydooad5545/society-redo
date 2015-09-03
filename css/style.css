@@ -7,20 +7,54 @@
 .light-grey {background-color:#d3d3d3;}
 .med-grey {background-color:#a9a9a9;}
 .dark-grey {background-color:#696969;}
-.h50 {height:50px;}
+.h60 {height:60px;}
+.h5 {height:3px;}
 .h100 {height:100px;}
 .h200 {height:200px;}
 .h300 {height:300px;}
+.h350 {height:380px;}
+.h390 {height:398px;}
 .h400 {height:400px;}
 .h500 {height:500px;}
 .h600 {height:600px;}
 .h700 {height:700px;}
 .h900 {height:900px;}
+.mt50 {margin-top:35px;}
+.p20 {padding:0px 50px 0px 50px;}
+.mt5 {margin-top:5px;}
+
+
+
 
 .container {
 	min-width:1000px;
 }
+.about-p {
+	font-size:16px;
+	padding:30px;
+	line-height:25px;
+}
+.nav-pills>li>a {
+	color:white;
+}
+.nav-pills {
+	font-size:16px;
+	color:white;
+}
+.nav li.active a{
+	background-color:#110466;
+	border-radius:0px;
+	border-bottom:3px solid #0BF1BF;
+	color:#0BF1BF;
+	font-size:16px;
+}
 
+.nav li.active a:hover, .nav li a:hover {
+	border-bottom:3px solid #0BF1BF;
+	color:#0BF1BF;
+	border-radius:0px;
+	background-color:#110466;
+}
 
 
 
